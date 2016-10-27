@@ -1,32 +1,32 @@
 {
-	"name": "php-pack",
-	"displayName": "PHP Pack",
-	"description": "Pack of PHP Extensions",
-	"version": "1.0.0",
-	"publisher": "sandy081",
-	"engines": {
-		"vscode": "^1.0.0"
-	},
-	"categories": [
-		"Other"
-	],
-	"galleryBanner": {
-		"color": "#f0efe7",
-		"theme": "light"
-	},
-	"icon": "php.svg",
-	"homepage": "https://github.com/sandy081/vscode-php-pack/blob/master/README.md",
-	"bugs": {
-		"url": "https://github.com/sandy081/vscode-php-pack/issues"
-	},
-	"license": "SEE LICENSE IN LICENSE.md",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/sandy081/vscode-php-pack"
-	},
-	"extensionDependencies": [
-		"felixfbecker.php-debug",
-		"felixfbecker.php-intellisense",
-		"Kasik96.format-php"
-	]
+    "name": "php-pack",
+    "displayName": "PHP Pack",
+    "description": "Pack of PHP Extensions",
+    "version": "1.1.0",
+    "publisher": "sandy081",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Other"
+    ],
+    "galleryBanner": {
+        "color": "#f0efe7",
+        "theme": "light"
+    },
+    "icon": "php.svg",
+    "homepage": "https://github.com/sandy081/vscode-php-pack/blob/master/README.md",
+    "bugs": {
+        "url": "https://github.com/sandy081/vscode-php-pack/issues"
+    },
+    "license": "SEE LICENSE IN LICENSE.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sandy081/vscode-php-pack"
+    },
+    "extensionDependencies": [
+        "felixfbecker.php-debug",
+        "felixfbecker.php-intellisense",
+        "Kasik96.format-php"
+    ]
 }
